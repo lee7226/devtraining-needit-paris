@@ -74,7 +74,7 @@
         <others>true</others>
         <page_hdrftr/>
         <pivot_expanded>true</pivot_expanded>
-        <report_drilldown display_value="Monthly Active Requests by Requested for">b1fd8fef2f26201096bad5f62799b6b9</report_drilldown>
+        <report_drilldown/>
         <report_source display_value="Active NeedIt Requests (NeedIt)">0d8b4faf2f26201096bad5f62799b6ea</report_source>
         <roles>x_58872_needit.needit_user</roles>
         <row/>
